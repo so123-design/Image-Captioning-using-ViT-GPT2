@@ -1,1 +1,2 @@
 # Image-Captioning-using-ViT-GPT2
+This project leverages a pre-trained Vision Transformer (ViT) and GPT-2 model to automatically generate captions for images. Using state-of-the-art natural language processing and computer vision technologies, this system can analyze images and generate meaningful descriptions. This project demonstrates the power of combining image processing and text generation models to create a sophisticated image captioning system.
